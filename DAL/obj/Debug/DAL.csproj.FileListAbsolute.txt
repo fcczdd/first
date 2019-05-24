@@ -1,0 +1,17 @@
+C:\Users\FCC\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\FCC\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\FCC\source\repos\DAL\bin\Debug\DTOModel.dll
+C:\Users\FCC\source\repos\DAL\bin\Debug\Model.dll
+C:\Users\FCC\source\repos\DAL\bin\Debug\EntityFramework.dll
+C:\Users\FCC\source\repos\DAL\bin\Debug\DTOModel.pdb
+C:\Users\FCC\source\repos\DAL\bin\Debug\DTOModel.dll.config
+C:\Users\FCC\source\repos\DAL\bin\Debug\Model.pdb
+C:\Users\FCC\source\repos\DAL\bin\Debug\EntityFramework.xml
+C:\Users\FCC\source\repos\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\FCC\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FCC\source\repos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\FCC\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\FCC\source\repos\DAL\obj\Debug\DAL.pdb
+C:\Users\FCC\source\repos\DAL\bin\Debug\DAL.dll.config
+C:\Users\FCC\source\repos\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC\source\repos\DAL\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,15 @@
+C:\Users\FCC\source\repos\Test23\bin\Debug\Test23.exe.config
+C:\Users\FCC\source\repos\Test23\bin\Debug\Test23.exe
+C:\Users\FCC\source\repos\Test23\bin\Debug\Test23.pdb
+C:\Users\FCC\source\repos\Test23\bin\Debug\DTOModel.dll
+C:\Users\FCC\source\repos\Test23\bin\Debug\EntityFramework.dll
+C:\Users\FCC\source\repos\Test23\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC\source\repos\Test23\bin\Debug\DTOModel.pdb
+C:\Users\FCC\source\repos\Test23\bin\Debug\DTOModel.dll.config
+C:\Users\FCC\source\repos\Test23\bin\Debug\EntityFramework.xml
+C:\Users\FCC\source\repos\Test23\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC\source\repos\Test23\obj\Debug\Test23.csprojAssemblyReference.cache
+C:\Users\FCC\source\repos\Test23\obj\Debug\Test23.csproj.CoreCompileInputs.cache
+C:\Users\FCC\source\repos\Test23\obj\Debug\Test23.csproj.CopyComplete
+C:\Users\FCC\source\repos\Test23\obj\Debug\Test23.exe
+C:\Users\FCC\source\repos\Test23\obj\Debug\Test23.pdb

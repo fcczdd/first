@@ -1,0 +1,5 @@
+C:\Users\FCC\source\repos\Model\bin\Debug\Model.dll
+C:\Users\FCC\source\repos\Model\bin\Debug\Model.pdb
+C:\Users\FCC\source\repos\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\FCC\source\repos\Model\obj\Debug\Model.dll
+C:\Users\FCC\source\repos\Model\obj\Debug\Model.pdb
