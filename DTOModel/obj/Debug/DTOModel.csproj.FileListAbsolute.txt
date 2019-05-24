@@ -9,3 +9,15 @@ C:\Users\FCC\source\repos\DTOModel\obj\Debug\DTOModel.csproj.CoreCompileInputs.c
 C:\Users\FCC\source\repos\DTOModel\obj\Debug\DTOModel.csproj.CopyComplete
 C:\Users\FCC\source\repos\DTOModel\obj\Debug\DTOModel.dll
 C:\Users\FCC\source\repos\DTOModel\obj\Debug\DTOModel.pdb
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\DTOModel.dll.config
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\DTOModel.dll
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\DTOModel.pdb
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\EntityFramework.dll
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\EntityFramework.xml
+C:\Users\FCC\Desktop\testapp\DTOModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC\Desktop\testapp\DTOModel\obj\Debug\DTOModel.csprojAssemblyReference.cache
+C:\Users\FCC\Desktop\testapp\DTOModel\obj\Debug\DTOModel.csproj.CoreCompileInputs.cache
+C:\Users\FCC\Desktop\testapp\DTOModel\obj\Debug\DTOModel.csproj.CopyComplete
+C:\Users\FCC\Desktop\testapp\DTOModel\obj\Debug\DTOModel.dll
+C:\Users\FCC\Desktop\testapp\DTOModel\obj\Debug\DTOModel.pdb
